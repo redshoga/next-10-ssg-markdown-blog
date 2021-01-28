@@ -24,9 +24,14 @@ Features to be implemented in the future
 - Add paging to the list page
 - Add OGP meta
 
+## Actual use cases
+
+https://github.com/redshoga/portfolio-v3
+
+The above blog has more applications and may be more up-to-date.
+
 ## How to describe images in markdown
 
-`#width:100,height:100`のように記述すると画像のサイズを指定できます。
 You can specify the size of the image by using `#width:100,height:100`.
 
 ```md
