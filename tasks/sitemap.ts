@@ -39,7 +39,7 @@ const sitemapMarkupFromLinks = (links: Link[]): string => {
     </urlset>
   `;
 
-  return sitemapMarkup.replace(/[ \n]+?/g, "");
+  return sitemapMarkup.replace(/[\n]+?/g, "");
 };
 
 (async () => {
